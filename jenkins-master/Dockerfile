@@ -1,5 +1,5 @@
-FROM jenkins:1.609.1
-MAINTAINER Maxfield Stewart
+FROM jenkins:2.46.2
+MAINTAINER Paul Velzeboer
 
 # Prep Jenkins Directories
 USER root
